@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Outputs
+outputs/
+
+# Virtual environment
+venv/
+.env/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Custom files (keep folder but ignore contents)
+custom_files/*
+!custom_files/.gitkeep
